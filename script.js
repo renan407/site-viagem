@@ -1,4 +1,4 @@
-/*const container = document.querySelector(".container");
+const container = document.querySelector(".container");
 
 document.querySelector(".open-navbar-icon").addEventListener("click", () => {
   container.classList.add("change");
@@ -21,4 +21,3 @@ Array.from(document.querySelectorAll(".navigation-button")).forEach(item => {
     item.parentElement.parentElement.classList.toggle("change");
   };
 });
-*/
